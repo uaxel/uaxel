@@ -1,13 +1,13 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/a/af/Rainbow_Spectrum_Colors_168-169.jpg/revision/latest/scale-to-width-down/1200?cb=20140616014626" />
+</p>
 
 ### 🌌 About My Personal Stuffs:
 
 - 🐍 **Coding Journey:** Currently learning **Python** and **VS Code** step by step.
 - 🔭 **Stargazer:** Astronomy is one of my biggest passions; I’m always looking at the sky.
 - 🖋️ **Storyteller:** I love writing stories and building my own creative worlds.
-- ⛩️ **Anime & Stories:** I enjoy watching anime and reading interesting plots.
+- ⛩️ **Anime & Stories:** I enjoy watching anime and reading interesting plots.                   <p align="center">
 - 🎭 **Fun Fact:** I usually name my projects after anime references.
 - 🤔 **My Interests include:**
    - 🌌 Exploring the mysteries of the universe.
@@ -15,7 +15,9 @@
    - 📺 **Top Picks:** *To Aru Majutsu no Index, Black Clover, Sakamoto Days, Konosuba, Lycoris Recoil, Frieren, Hanako-kun, Makeine, The Greatest Estate Developer, Na Kang Lim, Bocchi the Rock!, Umamusume, and Kaguya-sama.*
 
 
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/65/83/5d/65835d22bd69640a207ebd2fc2743fbf.png" width="100%" />
+</p>
 
 
 ## Connect with me ☕ :
@@ -67,3 +69,5 @@
         </tr>
     </tbody>
 </table>
+</p>
+

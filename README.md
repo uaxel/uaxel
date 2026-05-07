@@ -2,7 +2,7 @@
   <img src="https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/a/af/Rainbow_Spectrum_Colors_168-169.jpg/revision/latest/scale-to-width-down/1200?cb=20140616014626" />
 </p>
 
-### 🌌 About My Personal Stuffs:
+### 🌌 About Me:
 
 - 🐍 **Coding Journey:** Currently learning **Python** and **VS Code** step by step.
 - 🔭 **Stargazer:** Astronomy is one of my biggest passions; I’m always looking at the sky.
@@ -12,7 +12,7 @@
 - 🤔 **My Interests include:**
    - 🌌 Exploring the mysteries of the universe.
    - 📝 Drafting new tales and characters.
-   - 📺 **Top Picks:** *To Aru Majutsu no Index, Black Clover, Sakamoto Days, Konosuba, Lycoris Recoil, Frieren, Hanako-kun, Makeine, The Greatest Estate Developer, Na Kang Lim, Bocchi the Rock!, Umamusume, and Kaguya-sama.*
+   - 📺 **Favorite Animes :** *To Aru Majutsu no Index, Black Clover, Sakamoto Days, Konosuba, Lycoris Recoil, Frieren, Hanako-kun, Makeine, The Greatest Estate Developer, Na Kang Lim, Bocchi the Rock!, Umamusume, and Kaguya-sama.*
 
 
 <p align="center">

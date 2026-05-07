@@ -20,10 +20,28 @@
 
 ## Connect with me ☕ :
 
-<br>
-
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/uaxel1880/)
-
+<p align="left">
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/uaxel1880/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <!-- Discord -->
+  <a href="TU_LINK_DE_INVITACION_DISCORD" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="TU_LINK_DE_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- YouTube -->
+  <a href="TU_LINK_DE_YOUTUBE" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <!-- Spotify -->
+  <a href="TU_LINK_DE_SPOTIFY" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+</p>
 
 
 ## 👨‍💻 Languages and Tools:

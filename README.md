@@ -13,16 +13,19 @@
 <table>
     <tbody>
         <tr>
-            <td align="center">
+            <td>
                 <a href="#">
-                    <img alt="Python" title="Python" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-                    <br>Python
+                    <img alt="Python" title="Python" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
                 </a>
             </td>
-            <td align="center">
+            <td>
                 <a href="#">
-                    <img alt="Visual Studio Code" title="Visual Studio Code" height="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
-                    <br>VS Code
+                    <img alt="Visual Studio Code" title="Visual Studio Code" height="28px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
+                </a>
+            </td>
+            <td>
+                <a href="#">
+                    <img alt="GitHub" title="GitHub" height="28px" src="https://i.imgur.com/DZgetVv.png" />
                 </a>
             </td>
         </tr>
